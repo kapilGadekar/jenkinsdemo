@@ -1,0 +1,4 @@
+this is first git file.
+mkdir jenkins
+ls
+pwd
